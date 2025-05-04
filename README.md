@@ -25,13 +25,14 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+An app I would like to build upon would be the apple music app. Specifically, I'd really like to bring the music visualizer from the itunes/desktop version onto the IOS app. I would like to have it work say when the app is open and pulled up, and visualize the music according to the frequency,beat,etc. I would also love to add a statistics page to the app, so that I can see my listening stats in realtime instead of waiting until the end of year wrapup.
 ## Notes
 
 Some challenges I had while building the app were getting the button to work and also just navigating xcode. I had never used Xcode before so it was a bit difficult to find things like the assistant and what the storyboard file was. I also messed up the connection from the button to the controller which made my program not run for awhile, but I was eventually able to figure it out.
 
 One of my favorite apps to use is youtube. I really like the video play features such as speeding things up, determining quality, and the ablility to choose what subtitles or vocal tracks are on each video. I also like to use apple music, and some features I like are the variety of music shown with albuum covers. I also like the categories it has, such as downloaded, playlists, etc. Finally, I enjoy using the amazon app. I really enjoy the search bar up top, and the bottom buttons that guide you to key sections like your cart, current orders, and settings. I also like how it categorizes every item and shows a picture of that item, alongside any sales that item currently has.
 
-An app I would like to build upon would be the apple music app. Specifically, I'd really like to bring the music visualizer from the itunes/desktop version onto the IOS app. I would like to have it work say when the app is open and pulled up, and visualize the music according to the frequency,beat,etc. I would also love to add a statistics page to the app, so that I can see my listening stats in realtime instead of waiting until the end of year wrapup.
+
 ## License
 
     Copyright [2025] [Max Diamond]
